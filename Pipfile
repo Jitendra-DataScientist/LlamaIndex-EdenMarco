@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 llama-index = "*"
 python-dotenv = "*"
+llama-index-readers-web = "*"
+llama-index-readers-file = "*"
 
 [dev-packages]
 
